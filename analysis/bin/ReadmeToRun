@@ -1,0 +1,4 @@
+# FWLite stuffs
+
+# SinglePhoFWLite => to dump infos about single photons
+SinglePhoFWLite SinglePhoFWLiteConfig_cfg.py 
