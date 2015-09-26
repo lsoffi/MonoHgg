@@ -1,0 +1,25 @@
+@(#)CERN job starter $Date: 2010/06/23 14:22:16 $
+Working directory is </pool/lsf/soffi/700702714> on <b6b20a5356.cern.ch>
+
+22-Sep-2015 16:15:58 CEST  Initiating request to open file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v2/150812_181139/0000/myMicroAODOutputFile_31.root
+%MSG-w XrdAdaptor:  file_open 22-Sep-2015 16:16:19 CEST pre-events
+Data is served from cern.ch instead of original site eoscms
+%MSG
+22-Sep-2015 16:20:06 CEST  Successfully opened file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v2/150812_181139/0000/myMicroAODOutputFile_31.root
+PU REWEIGHTING:: Using file purwt.root
+----- Begin Fatal Exception 22-Sep-2015 16:20:30 CEST-----------------------
+An exception of category 'FatalRootError' occurred while
+   [0] Calling beginJob for module DiPhoAnalyzer/'diPhoAna'
+   Additional Info:
+      [a] Fatal Root Error: @SUB=TFile::TFile
+file purwt.root does not exist
+
+----- End Fatal Exception -------------------------------------------------
+22-Sep-2015 16:20:32 CEST  Closed file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v2/150812_181139/0000/myMicroAODOutputFile_31.root
+cp: accessing `/afs/cern.ch/user/m/mzientek/private/MonoHggCMSSW/CMSSW_7_4_6_patch2/src/MonoHgg/output/job_2015922_154918/GJet_Pt-20to40/GJet_Pt-20to40_35.root': Permission denied
+
+Job finished at Tue Sep 22 16:20:57 CEST 2015 on node 
+ under linux version Scientific Linux CERN SLC release 6.7 (Carbon)
+
+CERN statistics: This process used approximately : 0:00:35 KSI2K hours (35 KSI2K seconds)
+                 This process corresponds to     : 0:02:19 HS06  hours (139 HS06  seconds)

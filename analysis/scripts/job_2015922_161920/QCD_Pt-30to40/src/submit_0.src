@@ -1,0 +1,7 @@
+#!/bin/bash
+export SCRAM_ARCH=slc6_amd64_gcc491
+cd /afs/cern.ch/work/s/soffi/CMSSW_7_4_6_patch2/src/MonoHgg/analysis/scripts
+eval `scramv1 runtime -sh`
+cd $WORKDIR
+cmsRun /afs/cern.ch/work/s/soffi/CMSSW_7_4_6_patch2/src/MonoHgg/analysis/scripts/job_2015922_161920/QCD_Pt-30to40/cfg/cmssw0_cfg.py 
+ls *.root | xargs -i cp {} /afs/cern.ch/work/s/soffi/CMSSW_7_4_6_patch2/src/MonoHgg/job_2015922_161920/QCD_Pt-30to40/{}

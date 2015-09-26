@@ -1,0 +1,13 @@
+#! /bin/sh
+
+$LSB_TRAPSIGS
+$LSB_RCP1
+$LSB_RCP2
+$LSB_RCP3
+# LSBATCH: User input
+/usr/local/lsf/etc/job_starter 'source /afs/cern.ch/work/s/soffi/CMSSW_7_4_6_patch2/src/MonoHgg/analysis/scripts/job_2015922_155422/DiPhoton/src/submit_91.src'
+ExitStat=$?
+wait
+# LSBATCH: End user input
+true
+exit `expr $? "|" $ExitStat`

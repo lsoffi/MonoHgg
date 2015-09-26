@@ -1,0 +1,24 @@
+@(#)CERN job starter $Date: 2010/06/23 14:22:16 $
+Working directory is </pool/lsf/soffi/700706329> on <b67b9cd038.cern.ch>
+
+22-Sep-2015 16:37:39 CEST  Initiating request to open file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150812_181213/0000/myMicroAODOutputFile_69.root
+%MSG-w XrdAdaptor:  file_open 22-Sep-2015 16:37:42 CEST pre-events
+Data is served from cern.ch instead of original site eoscms
+%MSG
+22-Sep-2015 16:38:59 CEST  Successfully opened file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150812_181213/0000/myMicroAODOutputFile_69.root
+PU REWEIGHTING:: Using file purwt.root
+----- Begin Fatal Exception 22-Sep-2015 16:39:13 CEST-----------------------
+An exception of category 'FatalRootError' occurred while
+   [0] Calling beginJob for module DiPhoAnalyzer/'diPhoAna'
+   Additional Info:
+      [a] Fatal Root Error: @SUB=TFile::TFile
+file purwt.root does not exist
+
+----- End Fatal Exception -------------------------------------------------
+22-Sep-2015 16:39:14 CEST  Closed file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150812_181213/0000/myMicroAODOutputFile_69.root
+
+Job finished at Tue Sep 22 16:39:25 CEST 2015 on node 
+ under linux version Scientific Linux CERN SLC release 6.7 (Carbon)
+
+CERN statistics: This process used approximately : 0:00:28 KSI2K hours (28 KSI2K seconds)
+                 This process corresponds to     : 0:01:52 HS06  hours (112 HS06  seconds)

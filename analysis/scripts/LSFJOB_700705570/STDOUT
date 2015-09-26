@@ -1,0 +1,24 @@
+@(#)CERN job starter $Date: 2010/06/23 14:22:16 $
+Working directory is </pool/lsf/soffi/700705570> on <b6a8127402.cern.ch>
+
+22-Sep-2015 16:18:56 CEST  Initiating request to open file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v3/150812_180904/0000/myMicroAODOutputFile_105.root
+%MSG-w XrdAdaptor:  file_open 22-Sep-2015 16:18:58 CEST pre-events
+Data is served from cern.ch instead of original site eoscms
+%MSG
+22-Sep-2015 16:20:48 CEST  Successfully opened file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v3/150812_180904/0000/myMicroAODOutputFile_105.root
+PU REWEIGHTING:: Using file purwt.root
+----- Begin Fatal Exception 22-Sep-2015 16:20:57 CEST-----------------------
+An exception of category 'FatalRootError' occurred while
+   [0] Calling beginJob for module DiPhoAnalyzer/'diPhoAna'
+   Additional Info:
+      [a] Fatal Root Error: @SUB=TFile::TFile
+file purwt.root does not exist
+
+----- End Fatal Exception -------------------------------------------------
+22-Sep-2015 16:20:57 CEST  Closed file root://eoscms//eos/cms/store/group/phys_higgs/cmshgg/sethzenz/flashgg/RunIISpring15-50ns/Spring15BetaV4/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIISpring15-50ns-Spring15BetaV4-v0-RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v3/150812_180904/0000/myMicroAODOutputFile_105.root
+
+Job finished at Tue Sep 22 16:21:52 CEST 2015 on node 
+ under linux version Scientific Linux CERN SLC release 6.7 (Carbon)
+
+CERN statistics: This process used approximately : 0:00:41 KSI2K hours (41 KSI2K seconds)
+                 This process corresponds to     : 0:02:40 HS06  hours (160 HS06  seconds)

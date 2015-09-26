@@ -1,0 +1,72 @@
+    "/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1-3f425b4108f39a1254d7daa4f0b71a33/USER": {
+        "files": [
+            {
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_1.root", 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_1.root", 
+                "nevents": 1044, 
+                "weights": 784.3502197265625
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_10.root", 
+                "nevents": 1827, 
+                "weights": 1370.607666015625
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_11.root", 
+                "nevents": 15399, 
+                "weights": 11624.90234375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_12.root", 
+                "nevents": 3132, 
+                "weights": 2359.466064453125
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_13.root", 
+                "nevents": 15921, 
+                "weights": 11982.59765625
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_14.root", 
+                "nevents": 783, 
+                "weights": 586.257568359375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_15.root", 
+                "nevents": 783, 
+                "weights": 584.6536254882812
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_16.root", 
+                "nevents": 33669, 
+                "weights": 25377.486328125
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_17.root", 
+                "nevents": 18270, 
+                "weights": 13699.6630859375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_2.root", 
+                "nevents": 1827, 
+                "weights": 1396.271484375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_3.root", 
+                "nevents": 3393, 
+                "weights": 2547.93505859375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_4.root", 
+                "nevents": 5481, 
+                "weights": 4127.86328125
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_5.root", 
+                "nevents": 12528, 
+                "weights": 9449.095703125
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_6.root", 
+                "nevents": 5220, 
+                "weights": 3931.374267578125
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_7.root", 
+                "nevents": 2349, 
+                "weights": 1792.4564208984375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_8.root", 
+                "nevents": 783, 
+                "weights": 592.673583984375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/ZH_HToGG_ZToAll_M125_13TeV_powheg_pythia8/mzientek-ZH_HToGG_ZToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_104416/0000/myMicroAODOutputFile_9.root", 
+                "nevents": 162453, 
+                "weights": 122187.6484375
+            }

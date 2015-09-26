@@ -1,0 +1,48 @@
+    "/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1-fd9f8af0a8595acf5694d98ea4f73648/USER": {
+        "files": [
+            {
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_1.root", 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_1.root", 
+                "nevents": 86936, 
+                "weights": 73903.6484375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_10.root", 
+                "nevents": 12672, 
+                "weights": 10813.1298828125
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_11.root", 
+                "nevents": 8080, 
+                "weights": 6908.8935546875
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_2.root", 
+                "nevents": 6888, 
+                "weights": 5846.404296875
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_3.root", 
+                "nevents": 14272, 
+                "weights": 12159.794921875
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_4.root", 
+                "nevents": 4184, 
+                "weights": 3556.712890625
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_5.root", 
+                "nevents": 2592, 
+                "weights": 2197.37890625
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_6.root", 
+                "nevents": 70064, 
+                "weights": 59640.59765625
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_7.root", 
+                "nevents": 12152, 
+                "weights": 10344.3349609375
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_8.root", 
+                "nevents": 70288, 
+                "weights": 59765.46875
+            }, 
+                "name": "/store/user/mzientek/RunIISpring15-50ns/WplusH_HToGG_WToAll_M125_13TeV_powheg_pythia8/mzientek-WplusH_HToGG_WToAll_M125_13TeV_RunIISpring15DR74-Asympt50ns_MCRUN2_74_V9A-v1/150904_103922/0000/myMicroAODOutputFile_9.root", 
+                "nevents": 6976, 
+                "weights": 5935.095703125
+            }
