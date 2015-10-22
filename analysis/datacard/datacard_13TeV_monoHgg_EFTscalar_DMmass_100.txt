@@ -1,0 +1,25 @@
+#MonoHgg DataCard for C&C Limit Setting, 40 pb-1 
+#Run with:combine -M Asymptotic cardname.txt --run blind 
+# Lumi =  40 pb-1
+imax 1
+jmax *
+kmax *
+---------------
+bin 1
+observation  0 
+------------------------------
+bin     1             1           1           1            1               1 
+process DM            gg         dy          pf           hgg             Vh 
+process 0             1            2           3            4               5 
+rate 0.077          0.035         0.028        0.021         0.00025           0.0021 
+--------------------------------
+#signal related
+lumi_8TeV     lnN     1.1000      -          -          -       1.100   1.100
+eff_trig      lnN     1.010000      -          -          -       1.01000   1.01000
+id_eff_eb     lnN     1.02000       -          -          -       1.02000   1.02000   
+vtxEff        lnN   0.996/1.008     -          -          -     0.996/1.008  0.996/1.008
+#background related
+abcd_estimate lnN       -         1.27000    1.27000    1.27000      -         -  
+gg_norm      gmN 44 -        2.70270270270270274e-04          -          -          -         -  
+dy_norm       gmN 104 -           -      2.70042194092827003e-04       -          -         -  
+pf_norm       gmN 52 -           -          -       4.14634146341463458e-04     -         -  
